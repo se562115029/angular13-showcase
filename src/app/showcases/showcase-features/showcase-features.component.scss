@@ -1,0 +1,25 @@
+// declare variable
+$green-color :  #9ACD32;
+
+
+.green-text {
+    color: $green-color;
+}
+
+.button-row {
+    display: table-cell;
+    width: 490px;
+}
+
+.button-row .mat-button-base {
+    margin: 8px 8px 8px 0;
+  }
+
+  .mat-card {
+      width: 80%;
+  }
+
+  .full-width {
+    width: 100%;
+  }
+
